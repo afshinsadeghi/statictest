@@ -1,0 +1,1 @@
+# I made this to test statistic pages in Rubi, and also test RSpec testing unit instead of Rails test utility.
